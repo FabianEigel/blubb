@@ -1,4 +1,6 @@
-# rise
-## and
-### shine
-#### cthulhu fhtagn!
+# (λ)
+## rise
+### and
+#### shine
+##### mr. freeman
+###### cthulhu fhtagn!
